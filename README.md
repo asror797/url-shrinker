@@ -1,9 +1,19 @@
-# Url-Shrinker
+# Url Shrinker
   
 Using Technalogies
 * Nodejs , Express.js
 * Mongodb
 * Bootstrap 4
+
+## Usage
+
+1. After installing and running the application, access it through your web browser.
+
+2. Enter a long URL into the provided input field.
+
+3. Click on the "Shorten" button to generate a shortened URL.
+
+4. Copy the shortened URL and share it as needed.
 
 ## Url Shortener App Launch Video
 
